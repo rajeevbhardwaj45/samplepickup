@@ -1,0 +1,4 @@
+The optimal Route is
+ A->B->C->D->A
+The total distance is
+ 19.200000
